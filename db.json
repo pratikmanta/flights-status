@@ -1,0 +1,53 @@
+
+{
+"arrival":
+    [ 
+        {
+            "key":"flight1",
+            "flightsrc":"Malta",
+            "flightdest":"Amsterdam",
+            "time": "08:45",
+            "status": "ON TIME"
+        },
+        
+        {
+            "key":"flight2",
+            "flightsrc":"Malta",
+            "flightdest":"London",
+            "time": "09:45",
+            "status": "DELAYED"
+        },
+
+        {
+            "key":"flight3",
+            "flightsrc":"Malta",
+            "flightdest":"Poznan",
+            "time": "10:00",
+            "status": "ON TIME"
+        },
+
+        {
+            "key":"flight4",
+            "flightsrc":"Malta",
+            "flightdest":"London",
+            "time": "11:45",
+            "status": "ON TIME"
+        },
+
+        {
+            "key":"flight5",
+            "flightsrc":"Malta",
+            "flightdest":"Rome",
+            "time": "12:05",
+            "status": "ON TIME"
+        },
+
+        {
+            "key":"flight6",
+            "flightsrc":"Malta",
+            "flightdest":"Paris",
+            "time": "12:35",
+            "status": "DELAYED"
+        }
+    ]
+}
